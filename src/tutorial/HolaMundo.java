@@ -8,6 +8,7 @@ public class HolaMundo {
 		System.out.println("Bienvenidos al curso!");
 		System.out.println("Prueba grupo!");
 		System.out.println("Soy Marina");
+		System.out.println("Soy Elizabeth:')");
 		
 	}
 
