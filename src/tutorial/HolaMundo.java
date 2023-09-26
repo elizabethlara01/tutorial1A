@@ -9,8 +9,12 @@ public class HolaMundo {
 		System.out.println("Prueba grupo!");
 		System.out.println("Soy Marina");
 		System.out.println("Soy Elizabeth:')");
+<<<<<<< HEAD
 		System.out.println("Soy Elizabeth:vhgjfg')");
 		
+=======
+		System.out.println("Soy Marina de nuevo");
+>>>>>>> branch 'master' of https://github.com/elizabethlara01/tutorial1A.git
 	}
 
 }
